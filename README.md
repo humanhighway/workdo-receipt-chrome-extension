@@ -1,6 +1,10 @@
 # WorkDo Receipt Autofill Extension
 This Chrome extension allows users to use the Google Gemini API to automatically analyze uploaded receipt images and fill the store name, amount, and date into their expense form.
 
+![image](https://github.com/user-attachments/assets/da826743-2cc0-4a3f-b92e-406cc42b2320)
+
+
+
 ## Features
 WorkDo Receipt Autofill Extension is a Chrome extension designed to automate the process of filling in receipt information. Key features include:
 - **Form Autofill**: Extracts data from uploaded receipt images and fills it directly into the corresponding fields of the WorkDo reimbursement system, improving efficiency and reducing manual errors.
